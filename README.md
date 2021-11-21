@@ -22,4 +22,4 @@
 </ul>
 <h1> Walkthrough </h1>
 
-<img src= "superblog_demonstrate.gif" width = 750> </img>
+<img src= "superblog_demo.gif" width = 750> </img>
