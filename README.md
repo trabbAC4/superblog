@@ -1,4 +1,4 @@
-<ul> <h1> Superblog </h1> </ul>
+<ul> <h1 style = "text-align:center"> Superblog </h1> </ul>
 <li> Blog app built using Vue.js, json, npm, CSS, HTML </li>
 
 
@@ -20,3 +20,6 @@
   <li> Users are prompted to login and then they are redirected to the next page (Note: users can enter any value for the username and password to log in but an input must be entered in both fields </li>
   
 </ul>
+<h1> Walkthrough </h1>
+
+<img src= "superblog_demonstrate.gif" width = 250 </img>
